@@ -14,5 +14,5 @@ Link to install [here](https://www.python.org/)
 If you are on mac or linux go to terminal, but if you are on windows open command prompt. Type in the command ``pip install pygame``. If that doesn't work run it in administrator and try again. If that doesn't work download it off the [website](https://www.pygame.org/download.shtml) and get the latest version.
 
 # Step 3
-Run the game in notepad++, the IDLE application that comes with python, or [Pycharm](https://www.jetbrains.com/products.html#lang=python).
+Run the game in the IDE of your choice.
 
